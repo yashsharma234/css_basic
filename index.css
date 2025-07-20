@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
- <link rel="stylesheet" href="index.css">
+ H1{background-color:green;color:yellow;}
+ p{background-color: aqua;color: blue;}
+ h2{background-color: chartreuse;color: blueviolet;}
 <body>
-    <H1>INTRODUCTION</H1>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque enim sit temporibus in quia odio?</p>
-    <h2>THANKYOU</h2>
+    
 </body>
 </html>
